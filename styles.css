@@ -1,0 +1,30 @@
+html {
+    font-family: "Verdana", sans-serif;
+    color: darkgray;
+    font-size: large;
+}
+
+h1 {
+    background-color: black;
+    color: green;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    background-color: green;
+}
+
+h3 {
+    text-align: center;
+}    
+
+ul{
+    color: red;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
